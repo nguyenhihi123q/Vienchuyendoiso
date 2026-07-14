@@ -1,0 +1,92 @@
+[
+  {
+    "id": "event-1",
+    "title": "Tập huấn Ứng dụng nâng cao các công cụ AI trong công tác Đảng và Chính quyền năm 2026",
+    "date": "2026-07-12",
+    "displayDate": "12/07/2026",
+    "location": "Xã A Lưới 1, Huyện A Lưới, Thừa Thiên Huế",
+    "partner": "Phòng Văn hóa Xã A Lưới 1",
+    "target": "Cán bộ, viên chức xã; Lãnh đạo UBND xã; cán bộ phụ trách truyền thông cơ sở",
+    "tags": ["AI", "Hành chính công", "Cấp xã"],
+    "content": [
+      "Ứng dụng AI trong soạn thảo văn bản, báo cáo và tổng hợp tài liệu",
+      "Khai thác AI để xây dựng bài thuyết trình, truyền thông và xử lý công việc hành chính",
+      "Thực hành các công cụ AI phục vụ công việc hằng ngày",
+      "Nâng cao kỹ năng sử dụng AI an toàn, hiệu quả và có trách nhiệm"
+    ],
+    "image": "/events/event-1.jpg",
+    "featured": true
+  },
+  {
+    "id": "event-2",
+    "title": "Tập huấn Nâng cao kỹ năng sử dụng AI trong hành chính, giảng dạy và nghiên cứu khoa học lĩnh vực Luật học",
+    "date": "2026-07-07",
+    "displayDate": "07/07/2026",
+    "location": "Trường Đại học Luật, Đại học Huế",
+    "partner": "Trường Đại học Luật, Đại học Huế",
+    "target": "Giảng viên, nghiên cứu viên và cán bộ hành chính Trường Đại học Luật",
+    "presenter": "PGS.TS. Nguyễn Quang Tuấn (Phó Viện trưởng Viện Chuyển đổi số và Học liệu - Đại học Huế)",
+    "tags": ["AI", "Giáo dục", "Nghiên cứu khoa học", "Luật học"],
+    "content": [
+      "Tổng quan về trí tuệ nhân tạo và xu hướng ứng dụng AI trong giáo dục",
+      "Kỹ năng xây dựng và tối ưu prompt để khai thác các công cụ AI tạo sinh",
+      "Ứng dụng AI trong phân tích, tổng hợp tài liệu khoa học, biên soạn bài giảng, xây dựng bài thuyết trình",
+      "Giới thiệu các giải pháp xây dựng rubric đánh giá, thiết kế công cụ kiểm tra theo chuẩn đầu ra",
+      "Nhận thức về đạo đức, trách nhiệm và an toàn thông tin khi sử dụng AI"
+    ],
+    "image": "/events/event-2.jpg",
+    "featured": true
+  },
+  {
+    "id": "event-3",
+    "title": "Tập huấn Nâng cao năng lực số – Làm chủ công nghệ – Đổi mới để phục vụ Nhân dân tốt hơn",
+    "date": "2026-07-10",
+    "displayDate": "10/07/2026",
+    "location": "Công an Thành phố Huế",
+    "partner": "Công an Thành phố Huế & MobiFone Huế",
+    "target": "Cán bộ, chiến sĩ Công an Thành phố Huế",
+    "tags": ["Năng lực số", "Lực lượng vũ trang", "AI", "Công nghệ"],
+    "content": [
+      "Chuyển đổi tư duy số cho cán bộ, chiến sĩ Công an",
+      "Tối ưu quy trình làm việc của lực lượng vũ trang trong kỷ nguyên số",
+      "Khai thác AI và công nghệ số trong hoạt động nghiệp vụ",
+      "Xây dựng lực lượng tinh nhuệ, hiện đại, gần dân"
+    ],
+    "image": "/events/event-3.jpg",
+    "featured": true
+  },
+  {
+    "id": "event-4",
+    "title": "Khép lại Khóa tập huấn nghiệp vụ cho Cán bộ chuyên trách CNTT - Ứng dụng AI trong công việc năm 2026",
+    "date": "2026-06-28",
+    "displayDate": "Cuối tháng 06/2026",
+    "location": "Trụ sở Viện HU-Idter, Đại học Huế",
+    "partner": "Các cơ quan, ban ngành trực thuộc",
+    "target": "Cán bộ chuyên trách công nghệ thông tin",
+    "tags": ["AI", "CNTT", "Nghiệp vụ", "Chuyên sâu"],
+    "content": [
+      "Chuyên đề Ứng dụng AI trong công việc năm 2026",
+      "Thực hành chuyên sâu các công cụ AI cho cán bộ CNTT",
+      "Tích hợp AI vào hệ thống quản lý và hạ tầng số"
+    ],
+    "image": "/events/event-4.jpg",
+    "featured": false
+  },
+  {
+    "id": "event-5",
+    "title": "Tập huấn Nâng cao kỹ năng ứng dụng AI trong công việc năm 2026 tại Chân Mây - Lăng Cô",
+    "date": "2026-06-27",
+    "displayDate": "27 & 28/06/2026",
+    "location": "UBND xã Chân Mây - Lăng Cô, Huyện Phú Lộc, Thừa Thiên Huế",
+    "partner": "UBND xã Chân Mây - Lăng Cô",
+    "target": "Cán bộ lãnh đạo và cán bộ chuyên trách của xã Chân Mây - Lăng Cô",
+    "tags": ["AI", "Cấp xã", "Kỹ năng số", "Hành chính công"],
+    "content": [
+      "Nâng cao kỹ năng ứng dụng AI trong công việc hành chính cấp xã",
+      "Thực hành soạn thảo văn bản, báo cáo bằng AI",
+      "Quản lý và xử lý thông tin hiệu quả với công cụ số"
+    ],
+    "image": "/events/event-5.jpg",
+    "featured": false
+  }
+]

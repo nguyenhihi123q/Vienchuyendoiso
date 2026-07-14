@@ -1,0 +1,240 @@
+[
+  {
+    "id": "prog-1",
+    "title": "Ứng dụng AI trong Hành chính Công",
+    "shortTitle": "AI Hành chính",
+    "category": "Hành chính công",
+    "target": "Cán bộ, công chức, viên chức các cơ quan hành chính nhà nước cấp xã, huyện, tỉnh",
+    "duration": "1-2 ngày (8-16 tiết học)",
+    "level": "Cơ bản đến Nâng cao",
+    "description": "Khóa tập huấn trang bị cho cán bộ, viên chức các cơ quan nhà nước kỹ năng sử dụng các công cụ AI (ChatGPT, Claude, Gemini...) để tối ưu hóa công việc hành chính, soạn thảo văn bản, xử lý báo cáo và truyền thông chính quyền.",
+    "objectives": [
+      "Hiểu được bản chất và tiềm năng của AI trong hành chính công",
+      "Thành thạo kỹ năng viết prompt hiệu quả cho ChatGPT, Claude, Gemini",
+      "Ứng dụng AI vào soạn thảo văn bản, báo cáo, kế hoạch công tác",
+      "Sử dụng AI để xây dựng bài thuyết trình và nội dung truyền thông",
+      "Nhận thức về đạo đức và an toàn thông tin khi dùng AI"
+    ],
+    "curriculum": [
+      {
+        "module": "Module 1: Tổng quan về AI và Chuyển đổi số",
+        "topics": [
+          "AI là gì? Các xu hướng AI 2025-2026",
+          "ChatGPT, Claude, Gemini - So sánh và lựa chọn",
+          "Tiềm năng AI trong hành chính công Việt Nam"
+        ]
+      },
+      {
+        "module": "Module 2: Kỹ năng Prompt Engineering",
+        "topics": [
+          "Cấu trúc prompt hiệu quả (CRISPE framework)",
+          "Prompt cho soạn thảo văn bản hành chính",
+          "Prompt cho phân tích và tổng hợp thông tin",
+          "Thực hành: Viết prompt từ tình huống thực tế"
+        ]
+      },
+      {
+        "module": "Module 3: Ứng dụng Thực hành",
+        "topics": [
+          "Soạn thảo công văn, quyết định, báo cáo bằng AI",
+          "Xây dựng bài thuyết trình với AI + Canva/PowerPoint",
+          "Tóm tắt và phân tích văn bản dài bằng AI",
+          "Lên kế hoạch và tổ chức sự kiện với sự hỗ trợ AI"
+        ]
+      },
+      {
+        "module": "Module 4: An toàn và Đạo đức AI",
+        "topics": [
+          "Những rủi ro khi sử dụng AI không đúng cách",
+          "Bảo vệ dữ liệu cá nhân và thông tin mật",
+          "Quy tắc sử dụng AI có trách nhiệm trong cơ quan nhà nước"
+        ]
+      }
+    ],
+    "outcomes": [
+      "Ứng dụng được ít nhất 3 công cụ AI vào công việc hằng ngày",
+      "Soạn thảo văn bản hành chính nhanh hơn ít nhất 50%",
+      "Có khả năng hướng dẫn đồng nghiệp sử dụng AI cơ bản",
+      "Nhận thức đúng về an toàn thông tin khi dùng AI"
+    ],
+    "icon": "FileText",
+    "badge": "HOT",
+    "badgeColor": "red",
+    "featured": true
+  },
+  {
+    "id": "prog-2",
+    "title": "AI trong Giảng dạy và Nghiên cứu Khoa học",
+    "shortTitle": "AI Giáo dục",
+    "category": "Giáo dục & Nghiên cứu",
+    "target": "Giảng viên, nghiên cứu viên, cán bộ học thuật tại các trường đại học và viện nghiên cứu",
+    "duration": "2 ngày (16 tiết học)",
+    "level": "Trung cấp đến Nâng cao",
+    "description": "Chương trình tập huấn chuyên sâu giúp giảng viên và nhà nghiên cứu khai thác tối đa sức mạnh của AI tạo sinh trong công tác biên soạn bài giảng, nghiên cứu khoa học, đánh giá học sinh và phân tích tài liệu học thuật.",
+    "objectives": [
+      "Nắm vững xu hướng AI trong giáo dục đại học quốc tế",
+      "Thiết kế bài giảng tích hợp AI một cách sáng tạo và hiệu quả",
+      "Ứng dụng AI để phân tích, tổng hợp và trích dẫn tài liệu khoa học",
+      "Xây dựng rubric đánh giá và công cụ kiểm tra theo chuẩn đầu ra",
+      "Phát hiện và xử lý vấn đề học thuật liên quan đến AI"
+    ],
+    "curriculum": [
+      {
+        "module": "Module 1: AI trong Hệ sinh thái Giáo dục",
+        "topics": [
+          "Xu hướng AI trong giáo dục đại học 2025-2026",
+          "Các công cụ AI học thuật: Elicit, Perplexity, NotebookLM, Consensus",
+          "Khung đánh giá năng lực AI trong giảng dạy (UNESCO)"
+        ]
+      },
+      {
+        "module": "Module 2: Thiết kế Bài giảng với AI",
+        "topics": [
+          "Sử dụng AI để xây dựng đề cương môn học (Syllabus)",
+          "Tạo slide thuyết trình chuyên nghiệp với AI + Canva/Gamma",
+          "Thiết kế hoạt động học tập tích hợp AI",
+          "Tạo tình huống thực hành, case study bằng AI"
+        ]
+      },
+      {
+        "module": "Module 3: AI trong Nghiên cứu Khoa học",
+        "topics": [
+          "Tìm kiếm và đánh giá tài liệu khoa học với AI",
+          "Tổng hợp lý thuyết và viết Literature Review với AI",
+          "Phân tích dữ liệu định tính/định lượng hỗ trợ bởi AI",
+          "Viết và chỉnh sửa bài báo khoa học với AI"
+        ]
+      },
+      {
+        "module": "Module 4: Đánh giá và Kiểm soát Chất lượng",
+        "topics": [
+          "Thiết kế rubric đánh giá tích hợp AI",
+          "Phát hiện nội dung do AI tạo ra trong bài làm sinh viên",
+          "Chính sách học thuật liên quan đến AI tại các trường đại học"
+        ]
+      }
+    ],
+    "outcomes": [
+      "Thiết kế được 1 đề cương môn học tích hợp AI hoàn chỉnh",
+      "Tổng hợp được tài liệu khoa học nhanh hơn ít nhất 3 lần",
+      "Xây dựng được rubric đánh giá theo chuẩn đầu ra",
+      "Có khả năng hướng dẫn sinh viên sử dụng AI có đạo đức"
+    ],
+    "icon": "GraduationCap",
+    "badge": "MỚI",
+    "badgeColor": "blue",
+    "featured": true
+  },
+  {
+    "id": "prog-3",
+    "title": "Kỹ năng Số cho Lực lượng Vũ trang",
+    "shortTitle": "Năng lực số LLVT",
+    "category": "Lực lượng vũ trang",
+    "target": "Cán bộ, chiến sĩ Công an, Quân đội, Dân quân tự vệ",
+    "duration": "1 ngày (8 tiết học)",
+    "level": "Cơ bản",
+    "description": "Chương trình đặc thù dành riêng cho lực lượng vũ trang, tập trung vào việc nâng cao năng lực số, làm chủ công nghệ, đổi mới tư duy phục vụ nhân dân tốt hơn trong kỷ nguyên chuyển đổi số.",
+    "objectives": [
+      "Nắm bắt xu hướng chuyển đổi số trong lực lượng vũ trang",
+      "Sử dụng thành thạo các ứng dụng số trong công tác hằng ngày",
+      "Khai thác AI hỗ trợ công tác nghiệp vụ và quản lý",
+      "Đảm bảo an toàn thông tin và bảo mật dữ liệu"
+    ],
+    "curriculum": [
+      {
+        "module": "Module 1: Chuyển đổi số trong Lực lượng Vũ trang",
+        "topics": [
+          "Chính phủ số và Lực lượng vũ trang thông minh",
+          "Các ứng dụng số trong quản lý nội bộ",
+          "Ví dụ thực tiễn từ các quốc gia tiên tiến"
+        ]
+      },
+      {
+        "module": "Module 2: Kỹ năng Số Thiết yếu",
+        "topics": [
+          "Sử dụng hiệu quả Microsoft 365 / Google Workspace",
+          "Quản lý văn bản số và lưu trữ đám mây an toàn",
+          "Ứng dụng AI trong soạn thảo báo cáo, kế hoạch"
+        ]
+      },
+      {
+        "module": "Module 3: An ninh mạng và Bảo mật",
+        "topics": [
+          "Nhận diện và phòng tránh các mối đe dọa mạng",
+          "Bảo vệ thông tin mật trong môi trường số",
+          "Quy trình xử lý sự cố an toàn thông tin"
+        ]
+      }
+    ],
+    "outcomes": [
+      "Sử dụng thành thạo ít nhất 5 ứng dụng số thiết yếu",
+      "Nhận diện và phòng tránh được các mối đe dọa mạng cơ bản",
+      "Áp dụng AI vào ít nhất 2 công việc nghiệp vụ hằng ngày"
+    ],
+    "icon": "Shield",
+    "badge": "ĐẶC BIỆT",
+    "badgeColor": "green",
+    "featured": true
+  },
+  {
+    "id": "prog-4",
+    "title": "Chuyển đổi số Toàn diện Cấp xã",
+    "shortTitle": "CĐS Cấp xã",
+    "category": "Chính quyền địa phương",
+    "target": "Cán bộ lãnh đạo UBND xã, cán bộ chuyên trách công nghệ thông tin cấp xã, cán bộ phụ trách truyền thông cơ sở",
+    "duration": "2 ngày (16 tiết học)",
+    "level": "Cơ bản đến Trung cấp",
+    "description": "Chương trình tập huấn toàn diện giúp cấp xã, phường, thị trấn chuyển đổi số một cách bài bản, từ nhận thức lãnh đạo đến thực hành nghiệp vụ, xây dựng chính quyền số gần dân, phục vụ dân hiệu quả.",
+    "objectives": [
+      "Xây dựng tư duy lãnh đạo số cho cán bộ lãnh đạo cấp xã",
+      "Triển khai các dịch vụ công trực tuyến mức độ 3, 4",
+      "Số hóa hồ sơ, văn bản và quy trình hành chính",
+      "Xây dựng kênh truyền thông số cho chính quyền cơ sở",
+      "Ứng dụng AI trong các công việc hành chính thường ngày"
+    ],
+    "curriculum": [
+      {
+        "module": "Module 1: Chính quyền số - Cơ sở và Lộ trình",
+        "topics": [
+          "Khung pháp lý về chuyển đổi số quốc gia và địa phương",
+          "Lộ trình xây dựng xã thông minh, phường thông minh",
+          "Kinh nghiệm chuyển đổi số cấp xã tiêu biểu"
+        ]
+      },
+      {
+        "module": "Module 2: Dịch vụ Công trực tuyến",
+        "topics": [
+          "Hướng dẫn sử dụng Cổng dịch vụ công quốc gia",
+          "Tiếp nhận và xử lý hồ sơ trực tuyến",
+          "Hỗ trợ người dân tiếp cận dịch vụ công số"
+        ]
+      },
+      {
+        "module": "Module 3: AI trong Hành chính Cấp xã",
+        "topics": [
+          "Soạn thảo văn bản, nghị quyết, kế hoạch bằng AI",
+          "Tổng hợp báo cáo định kỳ với sự hỗ trợ AI",
+          "Xây dựng nội dung truyền thông xã với AI"
+        ]
+      },
+      {
+        "module": "Module 4: Truyền thông Số Cơ sở",
+        "topics": [
+          "Quản lý Fanpage, Zalo OA cho chính quyền xã",
+          "Tạo nội dung đa phương tiện cho truyền thông cơ sở",
+          "Đo lường hiệu quả truyền thông số"
+        ]
+      }
+    ],
+    "outcomes": [
+      "Triển khai được ít nhất 2 dịch vụ công trực tuyến mới",
+      "Số hóa ít nhất 30% hồ sơ giấy tờ trong 3 tháng",
+      "Xây dựng và duy trì được kênh truyền thông số chính quyền",
+      "Ứng dụng AI vào ít nhất 3 quy trình hành chính thường ngày"
+    ],
+    "icon": "Building2",
+    "badge": "PHỔ BIẾN",
+    "badgeColor": "purple",
+    "featured": false
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "name": "Viện Chuyển đổi số và Học liệu (HU-Idter) - Đại học Huế",
+  "shortName": "HU-Idter",
+  "acronym": "HU-Idter",
+  "slogan": "Chuyển đổi tư duy – Tối ưu quy trình – Nâng cao hiệu quả",
+  "mission": "Đồng hành cùng các địa phương, cơ quan ban ngành, lực lượng vũ trang và các trường thành viên thuộc Đại học Huế để nâng cao năng lực số, thúc đẩy chuyển đổi số toàn diện và tối ưu hóa quy trình hành chính công, đào tạo nghiệp vụ.",
+  "vision": "Trở thành trung tâm hàng đầu về chuyển đổi số và đào tạo năng lực số tại miền Trung - Tây Nguyên, góp phần xây dựng Chính phủ số, xã hội số và nền kinh tế số Việt Nam.",
+  "contact": {
+    "address": "20 Lê Lợi, Phường Thuận Hóa, Thành phố Huế, Tỉnh Thừa Thiên Huế, Việt Nam",
+    "phone": "0835 534 535",
+    "email": "huidter@hueuni.edu.vn",
+    "website": "https://idter.hueuni.edu.vn/"
+  },
+  "parentOrg": "Đại học Huế",
+  "socialLinks": [
+    { "platform": "Facebook", "url": "https://www.facebook.com/huidter", "icon": "facebook" },
+    { "platform": "YouTube", "url": "https://youtube.com/@huidter", "icon": "youtube" },
+    { "platform": "Website", "url": "https://idter.hueuni.edu.vn/", "icon": "globe" }
+  ],
+  "stats": [
+    {
+      "id": "stat-1",
+      "label": "Lớp Tập Huấn",
+      "value": 12,
+      "suffix": "+",
+      "icon": "BookOpen",
+      "description": "Tổ chức trong năm 2026"
+    },
+    {
+      "id": "stat-2",
+      "label": "Cán Bộ Được Đào Tạo",
+      "value": 800,
+      "suffix": "+",
+      "icon": "Users",
+      "description": "Cán bộ, viên chức các cấp"
+    },
+    {
+      "id": "stat-3",
+      "label": "Đối Tác Phối Hợp",
+      "value": 20,
+      "suffix": "+",
+      "icon": "Handshake",
+      "description": "Cơ quan, đơn vị, trường học"
+    },
+    {
+      "id": "stat-4",
+      "label": "Tỉnh / Thành Phố",
+      "value": 5,
+      "suffix": "",
+      "icon": "MapPin",
+      "description": "Phạm vi hoạt động"
+    }
+  ],
+  "coreValues": [
+    {
+      "id": "cv-1",
+      "title": "Chuyển Đổi Tư Duy",
+      "description": "Giúp cán bộ, viên chức nắm bắt tư duy số, đổi mới cách tiếp cận công việc trong kỷ nguyên AI và công nghệ số.",
+      "icon": "Lightbulb",
+      "color": "blue"
+    },
+    {
+      "id": "cv-2",
+      "title": "Tối Ưu Quy Trình",
+      "description": "Ứng dụng các công cụ AI và công nghệ số để tối ưu hóa quy trình hành chính, nâng cao hiệu suất làm việc.",
+      "icon": "Zap",
+      "color": "amber"
+    },
+    {
+      "id": "cv-3",
+      "title": "Nâng Cao Hiệu Quả",
+      "description": "Đào tạo thực hành, gắn lý thuyết với thực tiễn, đảm bảo mỗi cán bộ sau khóa học có thể ứng dụng ngay vào công việc.",
+      "icon": "TrendingUp",
+      "color": "green"
+    }
+  ],
+  "leaders": [
+    {
+      "id": "leader-1",
+      "name": "PGS.TS. Nguyễn Quang Tuấn",
+      "title": "Phó Viện trưởng",
+      "degree": "PGS.TS.",
+      "role": "Phó Viện trưởng Viện Chuyển đổi số và Học liệu - Đại học Huế",
+      "bio": "Chuyên gia hàng đầu về chuyển đổi số trong giáo dục và hành chính công, trực tiếp truyền đạt kiến thức tại các khóa tập huấn AI cho cán bộ giảng viên và cơ quan nhà nước.",
+      "avatar": "/avatars/leader-1.jpg"
+    }
+  ]
+}
